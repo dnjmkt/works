@@ -5,9 +5,9 @@
 - 2022/10/8 [冨田ラボ billboard live](https://realsound.jp/wp-content/uploads/2023/11/20231031-tomitalabshow99.jpeg.webp)
 - 2022/11/28 [松武秀樹](https://www.facebook.com/ken.fujimoto.31/posts/pfbid02PgPj2MHnzZ6H8knQk7QJZd6cnHGyxCPCvxYVGBCPEKoK46QnXZnorEoYnQpcemBFl)
 - 2022/3/22 [DTM Station Plus!](https://youtu.be/tjRnHe7NYNI?t=3500)
-- 2022/1/21 [DTM Ststion](https://www.dtmstation.com/archives/54807.html)
-- 2015/8/4 [TRACKFORMER](https://news.mynavi.jp/article/20150804-trackformer/)
-- 2007/12/17 [Privia](https://news.mynavi.jp/article/20071217-privia/)
+- 2022/1/21 Synthesizer [DTM Stsation](https://www.dtmstation.com/archives/54807.html)
+- 2015/8/4 DJ Gear [TRACKFORMER](https://news.mynavi.jp/article/20150804-trackformer/)
+- 2007/12/17 Piano [Privia](https://news.mynavi.jp/article/20071217-privia/)
 
 
 

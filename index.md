@@ -1,5 +1,5 @@
 ## works
-- 2025/08 専門誌(取材) [Sound and Recording magazine](https://x.com/snrec_jp/status/1958816384072274411?s=46)
+- 2025/08 専門誌 [Sound and Recording magazine](https://x.com/snrec_jp/status/1958816384072274411?s=46)
 - 2025/07  高橋幸宏サイン(提供) [DOMMUNE](https://youtu.be/5A0Tb-uEtvI?t=14394)
 - 2023/10 billboard live [冨田ラボ](https://www.billboard-japan.com/d_news/detail/131331/2)
 ( [stage写真](https://realsound.jp/wp-content/uploads/2023/11/20231031-tomitalabshow99.jpeg.webp))

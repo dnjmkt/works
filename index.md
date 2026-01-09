@@ -1,5 +1,5 @@
 ## works
-- 2026/01 特許 [J-PlatPad](https://dnjmkt.github.io/links/)
+- 2026/01 特許 [J-PlatPad](https://dnjmkt.github.io/pstents/)
 - 2025/08 専門誌 [Sound&Recording magazine](https://x.com/snrec_jp/status/1958816384072274411?s=46)
 - 2025/07  DOMMUNE [幸宏サイン](https://youtu.be/5A0Tb-uEtvI?t=14394)([momose](https://x.com/momose17148917/status/1943592080535863765?s=46))
 - 2023/10 billboard live [冨田ラボ](https://www.billboard-japan.com/d_news/detail/131331/2)

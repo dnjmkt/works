@@ -17,7 +17,6 @@
 - 2022/10  [瀬戸弘司](https://youtu.be/UJtEmPri8E4?t=322) 楽器店大賞動画
 - 2022/03  [DTM Station Plus!](https://youtu.be/tjRnHe7NYNI?t=3500) 生放送出演
 - 2022/01  [DTM Stsation](https://www.dtmstation.com/archives/54807.html) シンセサイザー（音源開発）取材
-***2015年以前***
 - 2015/08  [TRACKFORMER](https://news.mynavi.jp/article/20150804-trackformer/) DJ機器（商品企画）取材
 - 2007/12  [Privia](https://news.mynavi.jp/article/20071217-privia/) 電子ピアノ（商品企画）取材
 - 2002/09  [XFER](https://www.itmedia.co.jp/broadband/0303/11/lp18.html) 防水無線テレビ（映像無線伝送モジュール開発）

@@ -13,14 +13,14 @@
 ([Stage写真](https://realsound.jp/wp-content/uploads/2023/11/20231031-tomitalabshow99.jpeg.webp))
 billboard live
 - 2023/01  [NAMM Show2023](https://twitter.com/i/status/1647035785194119168) Stevie Wonder
-- 2022/11 [松武秀樹](https://www.facebook.com/ken.fujimoto.31/posts/pfbid02PgPj2MHnzZ6H8knQk7QJZd6cnHGyxCPCvxYVGBCPEKoK46QnXZnorEoYnQpcemBFl)
+- 2022/11 [松武秀樹](https://www.facebook.com/ken.fujimoto.31/posts/pfbid02PgPj2MHnzZ6H8knQk7QJZd6cnHGyxCPCvxYVGBCPEKoK46QnXZnorEoYnQpcemBFl) 九段下居酒屋
 - 2022/10  [ダンス⭐︎マン](https://youtu.be/uJLqgYZ501c?si=jikZcasP3DUZhi7S)
-- 2022/10  [瀬戸弘司](https://youtu.be/UJtEmPri8E4?t=322)(楽器店大賞)
-- 2022/03  [DTM Station Plus!](https://youtu.be/tjRnHe7NYNI?t=3500)(生放送出演)
-- 2022/01  [DTM Stsation](https://www.dtmstation.com/archives/54807.html)(シンセサイザー)
+- 2022/10  [瀬戸弘司](https://youtu.be/UJtEmPri8E4?t=322) 楽器店大賞動画
+- 2022/03  [DTM Station Plus!](https://youtu.be/tjRnHe7NYNI?t=3500) 生放送出演
+- 2022/01  [DTM Stsation](https://www.dtmstation.com/archives/54807.html) シンセサイザー
 ----
-- 2015/08  [TRACKFORMER](https://news.mynavi.jp/article/20150804-trackformer/)(DJ機器)
-- 2007/12  [Privia](https://news.mynavi.jp/article/20071217-privia/)(電子ピアノ)
+- 2015/08  [TRACKFORMER](https://news.mynavi.jp/article/20150804-trackformer/) DJ機器
+- 2007/12  [Privia](https://news.mynavi.jp/article/20071217-privia/) 電子ピアノ
 
 ---
 ## patents

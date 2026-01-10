@@ -16,20 +16,18 @@
 - 2022/10  [ダンス⭐︎マン](https://youtu.be/uJLqgYZ501c?si=jikZcasP3DUZhi7S)
 - 2022/10  [瀬戸弘司](https://youtu.be/UJtEmPri8E4?t=322) 楽器店大賞動画
 - 2022/03  [DTM Station Plus!](https://youtu.be/tjRnHe7NYNI?t=3500) 生放送出演
-- 2022/01  [DTM Stsation](https://www.dtmstation.com/archives/54807.html) シンセサイザー（音源開発）　取材
----
+- 2022/01  [DTM Stsation](https://www.dtmstation.com/archives/54807.html) シンセサイザー（音源開発）取材
 ***2015年以前***
-- 2015/08  [TRACKFORMER](https://news.mynavi.jp/article/20150804-trackformer/) DJ機器（商品企画）　取材
-- 2007/12  [Privia](https://news.mynavi.jp/article/20071217-privia/) 電子ピアノ（商品企画）　取材
+- 2015/08  [TRACKFORMER](https://news.mynavi.jp/article/20150804-trackformer/) DJ機器（商品企画）取材
+- 2007/12  [Privia](https://news.mynavi.jp/article/20071217-privia/) 電子ピアノ（商品企画）取材
 - 2002/09  [XFER](https://www.itmedia.co.jp/broadband/0303/11/lp18.html) 防水無線テレビ（映像無線伝送モジュール開発）
 - 1998/07  [NS-2000](https://www.webcg.net/articles/amp/18523) カーナビ（品質保証）
 - 1992/07  [CV-1](https://x.com/himitsugusa/status/1327890223330574336) ポケットテレビ（社会の窓）
 - 1988/05  [DH-100](https://web.casio.jp/emi/40th/history/dh-100.html) デジタルホーン（手直し）
----
+
 ***patents***
 - 2026/01 特許 [J-PlatPad](https://dnjmkt.github.io/patents/)
 
----
 ***SNS***
 - [YouTube](https://www.youtube.com/c/pernardburdie)
 - [X](https://x.com/PernardBurdie)

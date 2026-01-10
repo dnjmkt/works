@@ -23,3 +23,8 @@
 ---
 ## patents
 - 2026/01 特許 [J-PlatPad](https://dnjmkt.github.io/patents/)
+
+---
+## SNS
+- [YouTube](https://www.youtube.com/c/pernardburdie)
+- [X](https://x.com/PernardBurdie)

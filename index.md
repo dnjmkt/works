@@ -9,7 +9,7 @@
 - 2024/04 [M3春](https://x.com/isyt158qrika3i/status/1784917869408748002?s=46)
 - 2023/11 [東京楽器博](https://x.com/mn_pc_digital/status/1726707066369413126?s=46)
 - 2023/10  [冨田ラボ](https://www.billboard-japan.com/d_news/detail/131331/2)
-(billboard live tokyo)
+(billboard live)
 ([Stage写真](https://realsound.jp/wp-content/uploads/2023/11/20231031-tomitalabshow99.jpeg.webp))
 - 2023/01  [Stevie Wonder](https://twitter.com/i/status/1647035785194119168)
 (NAMM Show)

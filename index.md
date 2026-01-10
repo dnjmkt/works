@@ -26,10 +26,10 @@
 - 1992/07  [CV-1](https://x.com/himitsugusa/status/1327890223330574336) ポケットテレビ（社会の窓）
 - 1988/05  [DH-100](https://web.casio.jp/emi/40th/history/dh-100.html) デジタルホーン（手直し）
 ---
-## patents
+***patents***
 - 2026/01 特許 [J-PlatPad](https://dnjmkt.github.io/patents/)
 
 ---
-## SNS
+***SNS***
 - [YouTube](https://www.youtube.com/c/pernardburdie)
 - [X](https://x.com/PernardBurdie)

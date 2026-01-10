@@ -1,6 +1,6 @@
-### 市場開発
+## 市場開発
 - 2025/10 [Music China 2025](https://www.facebook.com/share/19teiiVx47/?mibextid=wwXIfr) 商談
-- 2025/10 [M3秋 2025](https://x.com/kurzweilmaster/status/1982279438646620381?s=46)
+- 2025/10 [M3秋 2025](https://x.com/kurzweilmaster/status/1982279438646620381?s=46) （中国出張で不参加）
 - 2025/08 [Sound&Recording magazine](https://x.com/snrec_jp/status/1958816384072274411?s=46) 取材
 - 2025/07 [DOMMUNE](https://youtu.be/5A0Tb-uEtvI?t=14394) 高橋幸宏サイン/機材提供
 - 2025/04 [M3春 2025](https://x.com/mashi_ce_mo/status/1916347983404404900?s=46) 説明員(YOASOBI演奏)
@@ -16,17 +16,22 @@
 - 2022/10  [ダンス⭐︎マン](https://youtu.be/uJLqgYZ501c?si=jikZcasP3DUZhi7S)
 - 2022/10  [瀬戸弘司](https://youtu.be/UJtEmPri8E4?t=322) 楽器店大賞動画
 - 2022/03  [DTM Station Plus!](https://youtu.be/tjRnHe7NYNI?t=3500) 生放送出演
-- 2022/01  [DTM Stsation](https://www.dtmstation.com/archives/54807.html) シンセサイザー（音源開発）取材
-- 2015/08  [TRACKFORMER](https://news.mynavi.jp/article/20150804-trackformer/) DJ機器ODM商品企画 取材
-- 2007/12  [Privia](https://news.mynavi.jp/article/20071217-privia/) 電子ピアノ商品企画 取材
-- 2002/09  [XFER](https://www.itmedia.co.jp/broadband/0303/11/lp18.html) 映像無線伝送モジュール開発
-- 1998/07  [NS-2000](https://www.webcg.net/articles/amp/18523) カーナビ（OEM/ODM）
-- 1992/07  [CV-1](https://x.com/himitsugusa/status/1327890223330574336) ポケットテレビ（QA）
-- 1988/05  [DH-100](https://web.casio.jp/emi/40th/history/dh-100.html) デジタルホーン（初残業）
-
-### 技術開発
+- 2022/01  [DTM Stsation](https://www.dtmstation.com/archives/54807.html) 新音源開発 取材
+  
+## 技術開発
 - 2026/01 特許 [J-PlatPad](https://dnjmkt.github.io/patents/)
 
 ### 覆面
 - [YouTube](https://www.youtube.com/c/pernardburdie)
 - [X](https://x.com/PernardBurdie)
+
+## 楽器事業 20年 （2006-2025羽村)
+- 2022/01  [Vocal Synthesis](https://www.casio.com/jp/electronic-musical-instruments/brands/casiotone/vocalsynthesis/#01)
+- 2015/08  [TRACKFORMER](https://news.mynavi.jp/article/20150804-trackformer/) DJ機器ODM 取材
+- 2007/12  [Privia](https://news.mynavi.jp/article/20071217-privia/) 電子ピアノ商品企画 取材
+- 1988/05  [DH-100](https://web.casio.jp/emi/40th/history/dh-100.html) デジタルホーン（初残業）
+
+## 映像事業 17年 （1989-1998東大和　1999-2000羽村 2000-2004愛知 2005-2006羽村)
+- 2002/09  [XFER](https://www.itmedia.co.jp/broadband/0303/11/lp18.html) 映像無線伝送モジュール開発
+- 1998/07  [NS-2000](https://www.webcg.net/articles/amp/18523) カーナビ（OEM/ODM）
+- 1992/07  [CV-1](https://x.com/himitsugusa/status/1327890223330574336) ポケットテレビ（QA）

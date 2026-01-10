@@ -2,6 +2,7 @@
 - 2026/01 特許 [J-PlatPad](https://dnjmkt.github.io/patents/)
 - 2025/08 専門誌 [Sound&Recording magazine](https://x.com/snrec_jp/status/1958816384072274411?s=46)
 - 2025/07 DOMMUNE [幸宏サイン](https://youtu.be/5A0Tb-uEtvI?t=14394)([momose](https://x.com/momose17148917/status/1943592080535863765?s=46))
+- 2025/04 [M3春](https://x.com/mashi_ce_mo/status/1916347983404404900?s=46)
 - 2025/01 NAMM Show [Lyric Creator2](https://x.com/kenfujimoto/status/1883066369694200068?s=46)
 - 2024/10 [M3秋](https://www.facebook.com/share/17UqGyfpYa/?mibextid=wwXIfr)
 - 2024/04 [M3春](https://x.com/isyt158qrika3i/status/1784917869408748002?s=46)
@@ -18,6 +19,6 @@
 - 2015/08  DJ Gear(取材) [TRACKFORMER](https://news.mynavi.jp/article/20150804-trackformer/)
 - 2007/12  Piano(取材) [Privia](https://news.mynavi.jp/article/20071217-privia/)
 
-
+---
 
 

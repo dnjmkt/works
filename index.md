@@ -1,5 +1,6 @@
 ## works
 - 2026/01 特許 [J-PlatPad](https://dnjmkt.github.io/patents/)
+- 2025/10 [Music China](https://www.facebook.com/share/19teiiVx47/?mibextid=wwXIfr)
 - 2025/08 専門誌 [Sound&Recording magazine](https://x.com/snrec_jp/status/1958816384072274411?s=46)
 - 2025/07 DOMMUNE [幸宏サイン](https://youtu.be/5A0Tb-uEtvI?t=14394)([momose](https://x.com/momose17148917/status/1943592080535863765?s=46))
 - 2025/04 [M3春](https://x.com/mashi_ce_mo/status/1916347983404404900?s=46)

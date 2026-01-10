@@ -1,7 +1,7 @@
 ## works
 - 2025/10 [Music China](https://www.facebook.com/share/19teiiVx47/?mibextid=wwXIfr)
 - 2025/08 [Sound&Recording magazine](https://x.com/snrec_jp/status/1958816384072274411?s=46)
-- 2025/07 [DOMMUNE](https://youtu.be/5A0Tb-uEtvI?t=14394)([momose](https://x.com/momose17148917/status/1943592080535863765?s=46))
+- 2025/07 [DOMMUNE](https://youtu.be/5A0Tb-uEtvI?t=14394)
 - 2025/04 [M3春](https://x.com/mashi_ce_mo/status/1916347983404404900?s=46)
 - 2025/01 NAMM Show [Lyric Creator2](https://x.com/kenfujimoto/status/1883066369694200068?s=46)
 - 2024/10 [M3秋](https://www.facebook.com/share/17UqGyfpYa/?mibextid=wwXIfr)

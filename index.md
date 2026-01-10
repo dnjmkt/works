@@ -1,4 +1,4 @@
-## works
+## 市場開発
 - 2025/10 [Music China 2025](https://www.facebook.com/share/19teiiVx47/?mibextid=wwXIfr) 商談
 - 2025/10 [M3秋 2025](https://x.com/kurzweilmaster/status/1982279438646620381?s=46)
 - 2025/08 [Sound&Recording magazine](https://x.com/snrec_jp/status/1958816384072274411?s=46) 取材
@@ -24,7 +24,7 @@
 - 1992/07  [CV-1](https://x.com/himitsugusa/status/1327890223330574336) ポケットテレビ（社会の窓）
 - 1988/05  [DH-100](https://web.casio.jp/emi/40th/history/dh-100.html) デジタルホーン（手直し）
 
-***patents***
+## 技術開発
 - 2026/01 特許 [J-PlatPad](https://dnjmkt.github.io/patents/)
 
 ***SNS***

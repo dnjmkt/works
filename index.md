@@ -6,7 +6,7 @@
 - 2025/04 [M3春2025](https://x.com/mashi_ce_mo/status/1916347983404404900?s=46) 説明員（演奏:YOASOBI）
 - 2025/04 [明和電機](https://www.maywadenki.com/blog/2025/04/20/ume2025/) オタマトーンプロト提供
 - 2025/01 [NAMM Show2025](https://www.dtmstation.com/archives/69364.html) Lyric Creator2
-- 2024/10 [M3秋2024](https://www.facebook.com/share/17UqGyfpYa/?mibextid=wwXIfr) 説明員（キーホルダープレゼント企画）
+- 2024/10 [M3秋2024](https://www.facebook.com/share/17UqGyfpYa/?mibextid=wwXIfr) 説明員（キーホルダー企画）
 - 2024/04 [M3春2024](https://x.com/isyt158qrika3i/status/1784917869408748002?s=46) 説明員 (DAW展示企画)
 - 2024/01 [NAMM Show2024](https://www.casio.co.jp/release/2024/0118-nammshow/) CT-S1000V
 - 2023/11 [東京楽器博2023](https://x.com/mn_pc_digital/status/1726707066369413126?s=46) 説明員

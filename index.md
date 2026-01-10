@@ -3,7 +3,7 @@
 - 2025/10 [M3秋2025](https://x.com/kurzweilmaster/status/1982279438646620381?s=46)
 - 2025/08 [Sound&Recording magazine 2025年10月号](https://x.com/snrec_jp/status/1958816384072274411?s=46) 取材
 - 2025/07 [DOMMUNE](https://youtu.be/5A0Tb-uEtvI?t=14394) 高橋幸宏サイン/機材提供
-- 2025/04 [M3春2025](https://x.com/mashi_ce_mo/status/1916347983404404900?s=46)　説明員（演奏:YOASOBI/夜に駆ける）
+- 2025/04 [M3春2025](https://x.com/mashi_ce_mo/status/1916347983404404900?s=46) 説明員（演奏:YOASOBI/夜に駆ける）
 - 2025/04 [明和電機](https://www.maywadenki.com/blog/2025/04/20/ume2025/) オタマトーン対応プロトタイプ提供
 - 2025/01 [NAMM Show2025](https://www.dtmstation.com/archives/69364.html) Lyric Creator2
 - 2024/10 [M3秋2024](https://www.facebook.com/share/17UqGyfpYa/?mibextid=wwXIfr) 説明員（キーホルダープレゼント企画）

@@ -11,7 +11,7 @@
 - 2023/11 [東京楽器博](https://x.com/mn_pc_digital/status/1726707066369413126?s=46) 説明員
 - 2023/10  [冨田ラボ](https://www.billboard-japan.com/d_news/detail/131331/2) billboard live 機材提供（[Stage写真](https://realsound.jp/wp-content/uploads/2023/11/20231031-tomitalabshow99.jpeg.webp))
 - 2023/01  [NAMM Show2023](https://twitter.com/i/status/1647035785194119168) Stevie Wonder
-- 2022/11 [松武秀樹](https://www.facebook.com/ken.fujimoto.31/posts/pfbid02PgPj2MHnzZ6H8knQk7QJZd6cnHGyxCPCvxYVGBCPEKoK46QnXZnorEoYnQpcemBFl) 居酒屋
+- 2022/11 [松武秀樹](https://www.facebook.com/ken.fujimoto.31/posts/pfbid02PgPj2MHnzZ6H8knQk7QJZd6cnHGyxCPCvxYVGBCPEKoK46QnXZnorEoYnQpcemBFl) 番組視察→打ち上げ
 - 2022/10  [ダンス⭐︎マン](https://youtu.be/uJLqgYZ501c?si=jikZcasP3DUZhi7S)
 - 2022/10  [瀬戸弘司](https://youtu.be/UJtEmPri8E4?t=322) 楽器店大賞動画
 - 2022/03  [DTM Station Plus!](https://youtu.be/tjRnHe7NYNI?t=3500) 生放送出演

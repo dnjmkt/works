@@ -7,7 +7,7 @@
 - 2025/01 [NAMM Show2025](https://www.dtmstation.com/archives/69364.html)Lyric Creator2
 - 2024/10 [M3秋](https://www.facebook.com/share/17UqGyfpYa/?mibextid=wwXIfr)
 - 2024/04 [M3春](https://x.com/isyt158qrika3i/status/1784917869408748002?s=46)
-- 2024/01 [NAMM Show2024](https://www.casio.co.jp/release/2024/0118-nammshow/)CT-S1000V
+- 2024/01 [NAMM Show2024](https://www.casio.co.jp/release/2024/0118-nammshow/) CT-S1000V
 - 2023/11 [東京楽器博](https://x.com/mn_pc_digital/status/1726707066369413126?s=46)
 - 2023/10  [冨田ラボ](https://www.billboard-japan.com/d_news/detail/131331/2)
 ([Stage写真](https://realsound.jp/wp-content/uploads/2023/11/20231031-tomitalabshow99.jpeg.webp))

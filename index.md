@@ -22,5 +22,5 @@
 - 2007/12  [Privia](https://news.mynavi.jp/article/20071217-privia/)(Piano取材)
 
 ---
-##patents
+## patents
 - 2026/01 特許 [J-PlatPad](https://dnjmkt.github.io/patents/)

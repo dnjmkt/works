@@ -16,7 +16,6 @@
 - 2022/10 楽器店大賞 [瀬戸弘司](https://youtu.be/UJtEmPri8E4?t=322)
 - 2022/03  生放送出演 [DTM Station Plus!](https://youtu.be/tjRnHe7NYNI?t=3500)
 - 2022/01  Synthesizer(取材) [DTM Stsation](https://www.dtmstation.com/archives/54807.html)
----
 - 2015/08  DJ Gear(取材) [TRACKFORMER](https://news.mynavi.jp/article/20150804-trackformer/)
 - 2007/12  Piano(取材) [Privia](https://news.mynavi.jp/article/20071217-privia/)
 

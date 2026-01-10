@@ -4,15 +4,15 @@
 - 2025/07 [DOMMUNE](https://youtu.be/5A0Tb-uEtvI?t=14394)
 - 2025/04 [M3春](https://x.com/mashi_ce_mo/status/1916347983404404900?s=46)
 - 2025/04 [明和電機](https://www.maywadenki.com/blog/2025/04/20/ume2025/)
-- 2025/01 [NAMM Show/Lyric Creator2](https://www.dtmstation.com/archives/69364.html)
+- 2025/01 [NAMM Show2025](https://www.dtmstation.com/archives/69364.html)Lyric Creator2
 - 2024/10 [M3秋](https://www.facebook.com/share/17UqGyfpYa/?mibextid=wwXIfr)
 - 2024/04 [M3春](https://x.com/isyt158qrika3i/status/1784917869408748002?s=46)
-- 2024/01 [NAMM Show/CT-S1000V](https://www.casio.co.jp/release/2024/0118-nammshow/)
+- 2024/01 [NAMM Show2024](https://www.casio.co.jp/release/2024/0118-nammshow/)CT-S1000V
 - 2023/11 [東京楽器博](https://x.com/mn_pc_digital/status/1726707066369413126?s=46)
 - 2023/10  [冨田ラボ](https://www.billboard-japan.com/d_news/detail/131331/2)
-(billboard live)
 ([Stage写真](https://realsound.jp/wp-content/uploads/2023/11/20231031-tomitalabshow99.jpeg.webp))
-- 2023/01  [NAMM Show/Stevie Wonder](https://twitter.com/i/status/1647035785194119168)
+billboard live
+- 2023/01  [NAMM Show2023](https://twitter.com/i/status/1647035785194119168)Stevie Wonder
 - 2022/11 [松武秀樹](https://www.facebook.com/ken.fujimoto.31/posts/pfbid02PgPj2MHnzZ6H8knQk7QJZd6cnHGyxCPCvxYVGBCPEKoK46QnXZnorEoYnQpcemBFl)
 - 2022/10  [ダンス⭐︎マン](https://youtu.be/uJLqgYZ501c?si=jikZcasP3DUZhi7S)
 - 2022/10  [瀬戸弘司](https://youtu.be/UJtEmPri8E4?t=322)(楽器店大賞)

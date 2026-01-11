@@ -16,7 +16,7 @@
 - 2022/11 [宮野弦士](https://tbsradio.g.kuroco-img.app/files/user/topics_img/4/09/%EF%BC%91%EF%BC%94(3).JPG) 森崎ウィン ライブバンマス 機材提供
 - 2022/10 [ダンス⭐︎マン](https://youtu.be/uJLqgYZ501c?si=jikZcasP3DUZhi7S) 宇宙人 機材提供
 - 2022/10 [瀬戸弘司](https://youtu.be/UJtEmPri8E4?t=322) YouTuber(楽器店大賞動画)
-- 2022/07 [小岩井ことり](https://x.com/koiwai_kotori/status/1552589425669861376?s=46) 声優
+- 2022/07 [プリキュア](https://x.com/koiwai_kotori/status/1552589425669861376?s=46) 声優 小岩井ことり
 - 2022/03 [m-flo](https://x.com/takudj/status/1504400370260652033?s=46) DJ ☆Taku Takahashi
 - 2022/03 [DTM Station Plus!](https://youtu.be/tjRnHe7NYNI?t=3500) 生放送出演
 - 2022/01 [DTM Stsation](https://www.dtmstation.com/archives/54807.html) 新音源開発 取材

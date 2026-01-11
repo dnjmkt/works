@@ -15,7 +15,7 @@
 - 2025/08 [Sound&Recording magazine](https://x.com/snrec_jp/status/1958816384072274411?s=46) 取材
 - 2025/07 [DOMMUNE](https://youtu.be/5A0Tb-uEtvI?t=14394) 高橋幸宏サイン/機材提供
 - 2025/04 [M3春 2025](https://x.com/mashi_ce_mo/status/1916347983404404900?s=46) 説明員(YOASOBI演奏)
-- 2025/01 [NAMM Show 2025](https://www.dtmstation.com/archives/69364.html) Lyric Creator2(歌声出力)
+- 2025/01 [NAMM Show 2025](https://www.dtmstation.com/archives/69364.html) Lyric Creator2
 - 2024/10 [M3秋 2024](https://www.facebook.com/share/17UqGyfpYa/?mibextid=wwXIfr) 説明員(キーホルダー企画)
 - 2024/04 [M3春 2024](https://x.com/isyt158qrika3i/status/1784917869408748002?s=46) 説明員(DAW展示企画)
 - 2024/01 [NAMM Show 2024](https://www.casio.co.jp/release/2024/0118-nammshow/) CT-S1000V
@@ -44,7 +44,7 @@
 - [X](https://x.com/PernardBurdie)
 
 ## 楽器事業 20年 
-（2006-2025羽村)
+（1988東大和　2006-2025羽村)
 - 2022/01  [Vocal Synthesis](https://www.casio.com/jp/electronic-musical-instruments/brands/casiotone/vocalsynthesis/#01) 新音源開発
 - 2015/08  [TRACKFORMER](https://news.mynavi.jp/article/20150804-trackformer/) DJ機器ODM 取材
 - 2007/12  [Privia](https://news.mynavi.jp/article/20071217-privia/) 電子ピアノ商品企画 取材

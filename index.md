@@ -1,28 +1,42 @@
-## 市場開発
-- 2025/10 [Music China 2025](https://www.facebook.com/share/19teiiVx47/?mibextid=wwXIfr) 商談
-- 2025/10 [M3秋 2025](https://x.com/kurzweilmaster/status/1982279438646620381?s=46) （中国出張で不参加）
-- 2025/08 [Sound&Recording magazine](https://x.com/snrec_jp/status/1958816384072274411?s=46) 取材
-- 2025/07 [DOMMUNE](https://youtu.be/5A0Tb-uEtvI?t=14394) 高橋幸宏サイン/機材提供
-- 2025/04 [M3春 2025](https://x.com/mashi_ce_mo/status/1916347983404404900?s=46) 説明員(YOASOBI演奏)
+## artists
 - 2025/04 [明和電機](https://www.maywadenki.com/blog/2025/04/20/ume2025/) 歌うオタマトーン ライブ機材提供
-- 2025/01 [NAMM Show 2025](https://www.dtmstation.com/archives/69364.html) Lyric Creator2
-- 2024/10 [M3秋 2024](https://www.facebook.com/share/17UqGyfpYa/?mibextid=wwXIfr) 説明員(キーホルダー企画)
-- 2024/04 [M3春 2024](https://x.com/isyt158qrika3i/status/1784917869408748002?s=46) 説明員(DAW展示企画)
-- 2024/01 [NAMM Show 2024](https://www.casio.co.jp/release/2024/0118-nammshow/) CT-S1000V
-- 2023/11 [東京楽器博 2023](https://x.com/mn_pc_digital/status/1726707066369413126?s=46) 説明員
 - 2023/10 [冨田ラボ](https://www.billboard-japan.com/d_news/detail/131331/2) billboard live 機材提供（[Stage写真](https://realsound.jp/wp-content/uploads/2023/11/20231031-tomitalabshow99.jpeg.webp))
-- 2023/01 [NAMM Show 2023](https://twitter.com/i/status/1647035785194119168) Stevie Wonder
 - 2022/11 [松武秀樹](https://www.facebook.com/ken.fujimoto.31/posts/pfbid02PgPj2MHnzZ6H8knQk7QJZd6cnHGyxCPCvxYVGBCPEKoK46QnXZnorEoYnQpcemBFl) 番組視察→打ち上げ
 - 2022/11 [宮野弦士](https://tbsradio.g.kuroco-img.app/files/user/topics_img/4/09/%EF%BC%91%EF%BC%94(3).JPG) 森崎ウィン ライブバンマス 機材提供
 - 2022/10 [ダンス⭐︎マン](https://youtu.be/uJLqgYZ501c?si=jikZcasP3DUZhi7S) 宇宙人 機材提供
 - 2022/10 [瀬戸弘司](https://youtu.be/UJtEmPri8E4?t=322) YouTuber(楽器店大賞動画)
 - 2022/07 [プリキュア](https://x.com/koiwai_kotori/status/1552589425669861376?s=46) 声優 小岩井ことり
 - 2022/03 [m-flo](https://x.com/takudj/status/1504400370260652033?s=46) DJ ☆Taku Takahashi
+
+## 市場開発
+- 2025/10 [Music China 2025](https://www.facebook.com/share/19teiiVx47/?mibextid=wwXIfr) 商談
+- 2025/10 [M3秋 2025](https://x.com/kurzweilmaster/status/1982279438646620381?s=46) （中国出張で不参加）
+- 2025/08 [Sound&Recording magazine](https://x.com/snrec_jp/status/1958816384072274411?s=46) 取材
+- 2025/07 [DOMMUNE](https://youtu.be/5A0Tb-uEtvI?t=14394) 高橋幸宏サイン/機材提供
+- 2025/04 [M3春 2025](https://x.com/mashi_ce_mo/status/1916347983404404900?s=46) 説明員(YOASOBI演奏)
+- 2025/01 [NAMM Show 2025](https://www.dtmstation.com/archives/69364.html) Lyric Creator2
+
+- 2024/10 [M3秋 2024](https://www.facebook.com/share/17UqGyfpYa/?mibextid=wwXIfr) 説明員(キーホルダー企画)
+- 2024/04 [M3春 2024](https://x.com/isyt158qrika3i/status/1784917869408748002?s=46) 説明員(DAW展示企画)
+- 2024/01 [NAMM Show 2024](https://www.casio.co.jp/release/2024/0118-nammshow/) CT-S1000V
+
+- 2023/11 [東京楽器博 2023](https://x.com/mn_pc_digital/status/1726707066369413126?s=46) 説明員
+- 2023/01 [NAMM Show 2023](https://twitter.com/i/status/1647035785194119168) Stevie Wonder
 - 2022/03 [DTM Station Plus!](https://youtu.be/tjRnHe7NYNI?t=3500) 生放送出演
 - 2022/01 [DTM Stsation](https://www.dtmstation.com/archives/54807.html) 新音源開発 取材
-  
+
+## 商品開発
+- [CT-S1000V](https://www.casio.com/jp/electronic-musical-instruments/brands/casiotone/cts1000v/)
+- 1 [リアルタイムで楽器が“歌う” Vocal Synthesis](https://www.casio.com/jp/electronic-musical-instruments/brands/casiotone/vocalsynthesis/#01)
+- 2 [「フレーズモード」「ノートモード」で歌詞の進み方をコントロール](https://www.casio.com/jp/electronic-musical-instruments/brands/casiotone/vocalsynthesis/#02)
+- 3 [ボーカルの性別や年齢など歌声の特徴もリアルタイムで調整可能](https://www.casio.com/jp/electronic-musical-instruments/brands/casiotone/vocalsynthesis/#03)
+- 4 [機能を組み合わせてより多彩な歌声を表現](https://www.casio.com/jp/electronic-musical-instruments/brands/casiotone/vocalsynthesis/#04)
+- 5 [Vocal Synthesisの歌詞作成
+などを行うための専用アプリ「Lyric Creator」](https://www.casio.com/jp/electronic-musical-instruments/brands/casiotone/vocalsynthesis/#05)
+
 ## 技術開発
-- 2026/01 特許 [J-PlatPad](https://dnjmkt.github.io/patents/)
+- [PCM以来の新音源技術「Vocal Synthesis」](https://www.casio.com/jp/electronic-musical-instruments/brands/casiotone/vocalsynthesis/#06)
+- 2026/01時点 特許 [J-PlatPad](https://dnjmkt.github.io/patents/)
 
 ### 覆面
 - [YouTube](https://www.youtube.com/c/pernardburdie)

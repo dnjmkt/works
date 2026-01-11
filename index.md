@@ -53,5 +53,6 @@
 ## 映像事業 17年 
 （1989-1998東大和　1999-2000羽村 2000-2004愛知 2005-2006羽村)
 - 2002/09  [XFER](https://www.itmedia.co.jp/broadband/0303/11/lp18.html) 映像無線伝送モジュール開発
+- 2001/03  [TU-100](https://auctions.yahoo.co.jp/jp/auction/n1178525843)PC-TUNER
 - 1998/07  [NS-2000](https://www.webcg.net/articles/amp/18523) カーナビ（OEM/ODM）
 - 1992/07  [CV-1](https://x.com/himitsugusa/status/1327890223330574336) ポケットテレビ（QA）

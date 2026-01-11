@@ -36,7 +36,7 @@
 などを行うための専用アプリ「Lyric Creator」](https://www.casio.com/jp/electronic-musical-instruments/brands/casiotone/vocalsynthesis/#05)
 
 ## 技術開発
-- [PCM以来の新音源技術「Vocal Synthesis」](https://www.casio.com/jp/electronic-musical-instruments/brands/casiotone/vocalsynthesis/#06)
+- PCM以来の新音源技術[Vocal Synthesis](https://www.casio.com/jp/electronic-musical-instruments/brands/casiotone/vocalsynthesis/#06)
 - 2026/01時点 特許 [J-PlatPad](https://dnjmkt.github.io/patents/)
 
 ### 覆面

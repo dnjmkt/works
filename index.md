@@ -28,7 +28,7 @@
 
 ## 楽器事業 20年 
 （2006-2025羽村)
-- 2022/01  [Vocal Synthesis](https://www.casio.com/jp/electronic-musical-instruments/brands/casiotone/vocalsynthesis/#01)
+- 2022/01  [Vocal Synthesis](https://www.casio.com/jp/electronic-musical-instruments/brands/casiotone/vocalsynthesis/#01) 新音源開発
 - 2015/08  [TRACKFORMER](https://news.mynavi.jp/article/20150804-trackformer/) DJ機器ODM 取材
 - 2007/12  [Privia](https://news.mynavi.jp/article/20071217-privia/) 電子ピアノ商品企画 取材
 - 1988/05  [DH-100](https://web.casio.jp/emi/40th/history/dh-100.html) デジタルホーン（初残業）

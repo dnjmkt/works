@@ -10,14 +10,16 @@
 - 2024/04 [M3春 2024](https://x.com/isyt158qrika3i/status/1784917869408748002?s=46) 説明員(DAW展示企画)
 - 2024/01 [NAMM Show 2024](https://www.casio.co.jp/release/2024/0118-nammshow/) CT-S1000V
 - 2023/11 [東京楽器博 2023](https://x.com/mn_pc_digital/status/1726707066369413126?s=46) 説明員
-- 2023/10  [冨田ラボ](https://www.billboard-japan.com/d_news/detail/131331/2) billboard live 機材提供（[Stage写真](https://realsound.jp/wp-content/uploads/2023/11/20231031-tomitalabshow99.jpeg.webp))
-- 2023/01  [NAMM Show 2023](https://twitter.com/i/status/1647035785194119168) Stevie Wonder
+- 2023/10 [冨田ラボ](https://www.billboard-japan.com/d_news/detail/131331/2) billboard live 機材提供（[Stage写真](https://realsound.jp/wp-content/uploads/2023/11/20231031-tomitalabshow99.jpeg.webp))
+- 2023/01 [NAMM Show 2023](https://twitter.com/i/status/1647035785194119168) Stevie Wonder
 - 2022/11 [松武秀樹](https://www.facebook.com/ken.fujimoto.31/posts/pfbid02PgPj2MHnzZ6H8knQk7QJZd6cnHGyxCPCvxYVGBCPEKoK46QnXZnorEoYnQpcemBFl) 番組視察→打ち上げ
-- 2022/11 [宮野弦士](https://tbsradio.g.kuroco-img.app/files/user/topics_img/4/09/%EF%BC%91%EF%BC%94(3).JPG) 森崎ウィン ライブ 機材提供
-- 2022/10  [ダンス⭐︎マン](https://youtu.be/uJLqgYZ501c?si=jikZcasP3DUZhi7S)
-- 2022/10  [瀬戸弘司](https://youtu.be/UJtEmPri8E4?t=322) 楽器店大賞動画
-- 2022/03  [DTM Station Plus!](https://youtu.be/tjRnHe7NYNI?t=3500) 生放送出演
-- 2022/01  [DTM Stsation](https://www.dtmstation.com/archives/54807.html) 新音源開発 取材
+- 2022/11 [宮野弦士](https://tbsradio.g.kuroco-img.app/files/user/topics_img/4/09/%EF%BC%91%EF%BC%94(3).JPG) 森崎ウィン ライブ機材提供
+- 2022/10 [ダンス⭐︎マン](https://youtu.be/uJLqgYZ501c?si=jikZcasP3DUZhi7S) 宇宙人 機材提供
+- 2022/10 [瀬戸弘司](https://youtu.be/UJtEmPri8E4?t=322) YouTuber(楽器店大賞動画)
+- 2022/07 [小岩井ことり](https://x.com/koiwai_kotori/status/1552589425669861376?s=46) 声優
+- 2022/03 [m-flo](https://x.com/takudj/status/1504400370260652033?s=46) DJ ☆Taku Takahashi
+- 2022/03 [DTM Station Plus!](https://youtu.be/tjRnHe7NYNI?t=3500) 生放送出演
+- 2022/01 [DTM Stsation](https://www.dtmstation.com/archives/54807.html) 新音源開発 取材
   
 ## 技術開発
 - 2026/01 特許 [J-PlatPad](https://dnjmkt.github.io/patents/)

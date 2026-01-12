@@ -44,15 +44,15 @@
 - [X](https://x.com/PernardBurdie)
 
 ## 楽器事業 20年 
-（1988東大和　2006-2025羽村)
+（1988 東大和　2006〜2025 羽村)
 - 2022/01  [Vocal Synthesis](https://www.casio.com/jp/electronic-musical-instruments/brands/casiotone/vocalsynthesis/#01) 新音源開発
 - 2015/08  [TRACKFORMER](https://news.mynavi.jp/article/20150804-trackformer/) DJ機器ODM 取材
 - 2007/12  [Privia](https://news.mynavi.jp/article/20071217-privia/) 電子ピアノ商品企画 取材
 - 1988/05  [DH-100](https://web.casio.jp/emi/40th/history/dh-100.html) デジタルホーン（初残業）
 
 ## 映像事業 17年 
-（1989-1998東大和　1999-2000羽村 2000-2004愛知 2005-2006羽村)
-- 2002/09  [XFER](https://www.itmedia.co.jp/broadband/0303/11/lp18.html) 映像無線伝送モジュール開発
-- 2001/03  [TU-100](https://auctions.yahoo.co.jp/jp/auction/n1178525843) EZ-USB PC-TUNER
-- 1998/07  [NS-2000](https://www.webcg.net/articles/amp/18523) カーナビ（OEM/ODM）
+（1989〜1998 東大和　1999〜2000 羽村 2000〜2004 愛知 2005〜2006 羽村)
+- 2002/09  [XFER](https://www.itmedia.co.jp/broadband/0303/11/lp18.html) 映像無線伝送モジュール開発 (SHARP)
+- 2001/03  [TU-100](https://auctions.yahoo.co.jp/jp/auction/n1178525843) EZ-USB PC-TUNER (台湾ODM)
+- 1998/07  [NS-2000](https://www.webcg.net/articles/amp/18523) カーナビ（SONY OEM/SANYO ODM）
 - 1992/07  [CV-1](https://x.com/himitsugusa/status/1327890223330574336) ポケットテレビ（QA）

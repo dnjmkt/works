@@ -8,8 +8,8 @@
 - 2022/10 [瀬戸弘司](https://youtu.be/UJtEmPri8E4?t=322) YouTuber (楽器店大賞2022)
 - 2022/07 [小岩井ことり](https://x.com/koiwai_kotori/status/1552589425669861376?s=46) 声優（プリキュア）
 - 2022/03 [m-flo](https://x.com/takudj/status/1504400370260652033?s=46) DJ ☆Taku Takahashi
-- 2020/03 [高橋幸宏](https://mikiki.tokyo.jp/articles/-/24420?page=5) カシオ楽器40周年インタビュー
-- 1982 [坂本龍一/矢野顕子](https://x.com/yano_akiko/status/2007702568328409455?s=46)
+- 2020/03 [高橋幸宏](https://mikiki.tokyo.jp/articles/-/24420?page=5) 楽器40周年インタビュー
+- 1982 [坂本龍一/矢野顕子](https://x.com/yano_akiko/status/2007702568328409455?s=46) MT-40
 
 ## 市場開発
 - 2025/10 [Music China 2025](https://www.facebook.com/share/19teiiVx47/?mibextid=wwXIfr) 商談

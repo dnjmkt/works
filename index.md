@@ -4,7 +4,7 @@
 - 2022/11 [松武秀樹](https://www.facebook.com/ken.fujimoto.31/posts/pfbid02PgPj2MHnzZ6H8knQk7QJZd6cnHGyxCPCvxYVGBCPEKoK46QnXZnorEoYnQpcemBFl) 第4のYMO (YouTube番組)
 - 2023/01 [Stevie Wonder](https://twitter.com/i/status/1647035785194119168) NAMM Show 2023
 - 2022/11 [森崎ウィン/宮野弦士](https://tbsradio.g.kuroco-img.app/files/user/topics_img/4/09/%EF%BC%91%EF%BC%94(3).JPG) TBSラジオ ライブ
-- 2022/10 [ダンス☆マン/南原清隆]([https://youtu.be/uJLqgYZ501c?si=jikZcasP3DUZhi7S](https://x.com/dance_man_98/status/1977755620209037665?s=20)) 宇宙人 (ミュージシャン)
+- 2022/10 [ダンス☆マン/南原清隆]([https://youtu.be/uJLqgYZ501c?si=jikZcasP3DUZhi7S](https://x.com/dance_man_98/status/1977755620209037665?s=20) 宇宙人 (ミュージシャン)
 - 2022/10 [瀬戸弘司](https://youtu.be/UJtEmPri8E4?t=322) YouTuber (楽器店大賞2022)
 - 2022/07 [小岩井ことり](https://x.com/koiwai_kotori/status/1552589425669861376?s=46) 声優（プリキュア）
 - 2022/03 [m-flo](https://x.com/takudj/status/1504400370260652033?s=46) DJ ☆Taku Takahashi

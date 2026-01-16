@@ -60,3 +60,11 @@
 - 1998/07  [NS-2000](https://www.webcg.net/articles/amp/18523) 7型ワイドカーナビ
 - 1997/07  [NS-800](https://minkara.carview.co.jp/userid/330035/car/228788/1056707/parts.aspx) VICSカーナビ
 - 1992/07  [CV-1](https://x.com/himitsugusa/status/1327890223330574336) ポケットテレビ(QA)
+
+## 音楽歴
+- 70s 休眠→覚醒期
+- 80s ドラム・シンセ期
+- 90s オリジナルユニット期
+- 00s ネットアレンジ期
+- 10s おやじバンド期
+- 20s こどもバンド期

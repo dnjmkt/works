@@ -59,6 +59,7 @@
 - 2000/06  [CN-100](https://response.jp/article/2000/06/28/2921.html) キュートナビ(三洋カーナビODM)
 - 1998/07  [NS-2000](https://www.webcg.net/articles/amp/18523) 7型ワイドカーナビ
 - 1997/07  [NS-800](https://minkara.carview.co.jp/userid/330035/car/228788/1056707/parts.aspx) VICSカーナビ
+- 1995/02  [QV-10](https://www.g-mark.org/gallery/winners/9ce704bf-803d-11ed-862b-0242ac130002?text=%E3%82%AB%E3%82%B7%E3%82%AA) 元祖デジカメ
 - 1994/11  [FV-600](https://www.g-mark.org/gallery/winners/9ce332e7-803d-11ed-862b-0242ac130002) 液晶プロジェクションテレビ
 - 1992/07  [CV-1](https://x.com/himitsugusa/status/1327890223330574336) ポケットテレビ(QA)
 

@@ -83,3 +83,4 @@
 - 1981 [DR-55](https://www.roland.com/jp/promos/gakuya/article-277/)
 - 1983 [DX-7](https://jp.yamaha.com/products/music_production/synthesizers/dx7/index.html)
 - 1985 [CX7M](https://www.yamaha.com/ja/about/experience/innovation-road/collection/detail/2018/_128/index.html)
+- 1986 [RZ-1](https://web.casio.com/emi/40th/history/rz-1.html)

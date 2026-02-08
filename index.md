@@ -79,6 +79,7 @@
 
 ## tools
 - 1979 [Roland SH-2](https://www.roland.com/jp/products/rc_sh-2/)
+- 1979 [Sharp GF-808](https://corporate.jp.sharp/info/history/only_one/av/av_w4.html)
 - 1980 [Casio MT-30](http://weltenschule.de/TableHooters/Casio_MT-30.html)
 - 1981 [Boss DR-55](https://www.roland.com/jp/promos/gakuya/article-277/)
 - 1983 [Yamaha DX-7](https://jp.yamaha.com/products/music_production/synthesizers/dx7/index.html)

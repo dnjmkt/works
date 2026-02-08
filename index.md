@@ -78,6 +78,7 @@
 - 20s アプリ開発/継承開発
 
 ## tools
-- 1980[MT-30](http://weltenschule.de/TableHooters/Casio_MT-30.html)
-- 1981[DR-55](https://www.roland.com/jp/promos/gakuya/article-277/)
-- 1985[CX7M](https://www.yamaha.com/ja/about/experience/innovation-road/collection/detail/2018/_128/index.html)
+- 1980 [MT-30](http://weltenschule.de/TableHooters/Casio_MT-30.html)
+- 1981 [DR-55](https://www.roland.com/jp/promos/gakuya/article-277/)
+- 1983 [DX-7](https://jp.yamaha.com/products/music_production/synthesizers/dx7/index.html)
+- 1985 [CX7M](https://www.yamaha.com/ja/about/experience/innovation-road/collection/detail/2018/_128/index.html)

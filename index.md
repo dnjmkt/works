@@ -42,9 +42,9 @@
 - 2026/01時点 特許 [J-PlatPad](https://dnjmkt.github.io/patents/)
 
 ## 資格
-- G検定[JDLA Deep Learning for GENERAL 2018 #2](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/RWNROXRibTk5V0Nyc0I0SjFPdmZpQT09)
-- [DX推進パスポート1](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/bzFmM2JwWVEzNnkrRUc5dWNHOWIxZz09)
-- [JDLA Generative AI TEST 2024 #1](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/eEVPcVJQWWZtTzhzSjNFSURIaXQ2UT09)
+- AI（G検定）[JDLA Deep Learning for GENERAL 2018 #2](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/RWNROXRibTk5V0Nyc0I0SjFPdmZpQT09)
+- DX [DX推進パスポート1](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/bzFmM2JwWVEzNnkrRUc5dWNHOWIxZz09)
+- 生成AI [JDLA Generative AI TEST 2024 #1](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/eEVPcVJQWWZtTzhzSjNFSURIaXQ2UT09)
 
 ### 覆面
 - [YouTube](https://www.youtube.com/c/pernardburdie)
